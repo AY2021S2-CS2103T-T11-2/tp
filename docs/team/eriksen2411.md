@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Nguyen Duc Danh's Project Portfolio Page
+title: John Doe's Project Portfolio Page
 ---
 
-## Project: CoLAB
+## Project: AddressBook Level 3
 
-CoLAB (Command Line Address Book) is a desktop app for students currently enrolled in a university to keep track of people they have crossed paths with. It is optimized for use via a Command Line Interface (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, CoLAB can get your contact management tasks done faster than traditional GUI apps.
+AddressBook - Level 3 is a desktop address book application used for teaching Software Engineering principles. The user interacts with it using a CLI, and it has a GUI created with JavaFX. It is written in Java, and has about 10 kLoC.
 
 Given below are my contributions to the project.
-
-* **New Feature**: Added a addEto command that allows the user to add an Event to a Project specified by project index.
 
 * **New Feature**: Added the ability to undo/redo previous commands.
   * What it does: allows the user to undo all previous commands one at a time. Preceding undo commands can be reversed by using the redo command.
